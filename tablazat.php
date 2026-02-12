@@ -44,6 +44,7 @@
         echo "</table>";
     ?>
     <a href="index.php">Vissza a főoldalra</a>
-    <a href="megujulo.php" target="_self">A megújuló oldalra!</a>
+    <a href="megujulo.php" target="_self">A megújuló oldalra</a>
+    <a href="viz.php">A Vízhez</a>
 </body>
 </html>

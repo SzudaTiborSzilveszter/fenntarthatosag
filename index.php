@@ -16,8 +16,9 @@
             <?php
                 include "feladat1.php"; 
             ?>
-            <a href="megujulo.php" target="_self">A megújuló oldalra!</a>
+            <a href="megujulo.php">A megújuló oldalra</a>
             <a href="tablazat.php">A Táblázathoz</a>
+            <a href="viz.php">A Vízhez</a>
         </aside>
     </main>
 </body>

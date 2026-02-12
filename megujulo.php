@@ -20,5 +20,6 @@
     ?>
     <a href="index.php">Vissza a főoldalra</a>
     <a href="tablazat.php">A Táblázathoz</a>
+    <a href="viz.php">A Vízhez</a>
 </body>
 </html>
