@@ -34,13 +34,11 @@
         echo "</tr>";
         echo "</table>";
         echo "<table> <tr>";
-        for ($i=0; $i < 9; $i++) { 
+        for ($i=0; $i < 9; $i++) {
+            echo "<td> $tartalom[$i] </td>"; 
             if($i%3==2){
-                echo "<td> $tartalom[$i] </td>";
                 echo "</tr>";
                 echo "<tr>";
-            }else{
-                echo "<td> $tartalom[$i] </td>"; 
             }
         }
         echo "</table>";
