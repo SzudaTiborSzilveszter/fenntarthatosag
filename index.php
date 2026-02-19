@@ -14,7 +14,7 @@
         <aside>
             <h1>Egyes feladat</h1>
             <?php
-                include "feladat1.php"; 
+                include "szintek.php"; 
             ?>
             <a href="megujulo.php">A megújuló oldalra</a>
             <a href="tablazat.php">A Táblázathoz</a>

@@ -1,0 +1,10 @@
+div{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    font-size: 15pt;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+}

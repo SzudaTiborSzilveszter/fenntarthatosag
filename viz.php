@@ -21,7 +21,7 @@
         </form>
     <a href="megujulo.php">A megújuló oldalra</a>
     <a href="tablazat.php">A Táblázathoz</a>
-    <a href="megujulo.php">A megújuló oldalra</a>
+    <a href="index.php">A főoldalra</a>
     <a href="viz.php">A Vízhez</a>
 </body>
 </html>
